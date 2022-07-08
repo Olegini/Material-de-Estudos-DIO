@@ -1,0 +1,11 @@
+O Git é um software de versionamento de código
+
+Comandos
+
+- dir: Lista diretórios contidos na pasta
+- cd: Base do diretório
+- cd.. : para retornar uma pasta
+- clear: limpa o terminal
+- mkdir: cria pasta
+- del: deleta apenas arquivos
+- rmdir: exclui repositório
